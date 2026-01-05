@@ -64,10 +64,4 @@ If you wish to remove all data, you can delete the app from your device.
 
 We may update this Privacy Policy from time to time. If we make material changes, we will update the “Last updated” date above and may update the description in the App Store listing.[2]
 
-## 8. Contact
-
-If you have any questions about this Privacy Policy, you can contact the developer at:
-
-**Email:** chaand@hotmail.com
-
 
